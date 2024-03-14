@@ -1,0 +1,16 @@
+.header {
+    text-align: center;
+    background-color: rgb(230, 47, 78);
+    color: black;
+    font-size: 32px;
+    font-weight: bold;
+
+}
+ 
+.linked-recipe {
+    text-align: left;
+    background-color: white;
+    color: rgb(230, 47, 78);
+    font-size: 22px;
+    font-weight: 600;
+}
